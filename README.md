@@ -2,7 +2,7 @@
 - 👀 I’m interested in python,web development
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me @vikasreddy369 in instagram
+
 
 <!---
 kkkiqjn/kkkiqjn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
